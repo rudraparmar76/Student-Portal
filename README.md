@@ -15,7 +15,7 @@ Welcome to the SVKM Student Portal, your all-in-one solution for managing your a
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/svkm-student-portal.git
+   git clone https://github.com/rudraparmar76/Student-Portal.git
    ```
 
 2. **Database Setup**:
