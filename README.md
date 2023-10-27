@@ -1,6 +1,11 @@
 # SVKM Student Portal 🎓
 
-Welcome to the SVKM Student Portal, your all-in-one solution for managing your academic journey at SVKM institutions. This Java application simplifies student interactions, providing essential features within a user-friendly interface.
+Welcome to the SVKM Student Portal, a collaborative effort by a team of passionate developers, designed to simplify your academic journey at SVKM institutions. This Java application offers a user-friendly interface and essential features, ensuring a seamless experience for students.
+
+## Development Team 👩‍💻👨‍💻
+- [Rudra Parmar](https://github.com/rudraparmar76)
+- [Daksh Gopani](https://github.com/dakshgopani):
+- [Vinit Shah](https://github.com/Vinit062006): Frontend Developer
 
 ## Features 🚀
 
