@@ -21,7 +21,7 @@ Welcome to the SVKM Student Portal, your all-in-one solution for managing your a
 2. **Database Setup**:
    - Configure your database to store student information, results, and financial records.
    - Update database connection details in the Java application.
-   - Or else you can import [this](127_0_0_1.sql) database file.
+   - Or else you can import this [database](https://github.com/rudraparmar76/Student-Portal/blob/main/Student-Portal/127_0_0_1.sql) file.
 
 3. **Compile and Run**:
    - Navigate to the project directory.
