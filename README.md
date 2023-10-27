@@ -4,8 +4,8 @@ Welcome to the SVKM Student Portal, a collaborative effort by a team of passiona
 
 ## Development Team 👩‍💻👨‍💻
 - [Rudra Parmar](https://github.com/rudraparmar76)
-- [Daksh Gopani](https://github.com/dakshgopani):
-- [Vinit Shah](https://github.com/Vinit062006): Frontend Developer
+- [Daksh Gopani](https://github.com/dakshgopani)
+- [Vinit Shah](https://github.com/Vinit062006)
 
 ## Features 🚀
 
