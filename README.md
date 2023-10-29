@@ -7,6 +7,10 @@ Welcome to the SVKM Student Portal, a collaborative effort by a team of passiona
 - [Daksh Gopani](https://github.com/dakshgopani)
 - [Vinit Shah](https://github.com/Vinit062006)
 
+## Output
+- [See Output](https://drive.google.com/drive/my-drive)
+
+
 ## Features 🚀
 
 - **User Authentication**: Secure login and signup functionalities ensure data privacy.
