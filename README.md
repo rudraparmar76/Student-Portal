@@ -8,7 +8,7 @@ Welcome to the SVKM Student Portal, a collaborative effort by a team of passiona
 - [Vinit Shah](https://github.com/Vinit062006)
 
 ## Output
-- [See Output](https://drive.google.com/drive/my-drive)
+- [See Output](https://drive.google.com/file/d/1304lANThOIJxCBOHS8j60TDJGMsZc77y/view?usp=sharing)
 
 
 ## Features 🚀
